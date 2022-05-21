@@ -1,0 +1,15 @@
+C:\c# speedrun\bin\Debug\net6.0\c# speedrun.exe
+C:\c# speedrun\bin\Debug\net6.0\c# speedrun.deps.json
+C:\c# speedrun\bin\Debug\net6.0\c# speedrun.runtimeconfig.json
+C:\c# speedrun\bin\Debug\net6.0\c# speedrun.dll
+C:\c# speedrun\bin\Debug\net6.0\c# speedrun.pdb
+C:\c# speedrun\obj\Debug\net6.0\c# speedrun.csproj.AssemblyReference.cache
+C:\c# speedrun\obj\Debug\net6.0\c# speedrun.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# speedrun\obj\Debug\net6.0\c# speedrun.AssemblyInfoInputs.cache
+C:\c# speedrun\obj\Debug\net6.0\c# speedrun.AssemblyInfo.cs
+C:\c# speedrun\obj\Debug\net6.0\c# speedrun.csproj.CoreCompileInputs.cache
+C:\c# speedrun\obj\Debug\net6.0\c# speedrun.dll
+C:\c# speedrun\obj\Debug\net6.0\refint\c# speedrun.dll
+C:\c# speedrun\obj\Debug\net6.0\c# speedrun.pdb
+C:\c# speedrun\obj\Debug\net6.0\c# speedrun.genruntimeconfig.cache
+C:\c# speedrun\obj\Debug\net6.0\ref\c# speedrun.dll
