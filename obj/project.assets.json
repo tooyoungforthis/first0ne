@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\c# speedrun\\c# speedrun.csproj",
+      "projectUniqueName": "C:\\c# task for unban\\c# speedrun.csproj",
       "projectName": "c# speedrun",
-      "projectPath": "C:\\c# speedrun\\c# speedrun.csproj",
+      "projectPath": "C:\\c# task for unban\\c# speedrun.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\c# speedrun\\obj\\",
+      "outputPath": "C:\\c# task for unban\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
